@@ -1,0 +1,11 @@
+*.o
+*.ko
+*.mod
+*.mod.c
+*.cmd
+*.order
+*.symvers
+.tmp_versions/
+.*.cmd
+maix_scope
+test_maix
